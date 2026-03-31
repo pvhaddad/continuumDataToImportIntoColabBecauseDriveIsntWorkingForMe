@@ -1,2 +1,0 @@
-# continuumDataToImportIntoColabBecauseDriveIsntWorkingForMe
-the name is self explanitory
